@@ -5,9 +5,8 @@
 # 👋 Hello, I'm Sam Mathew!
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: Django & React Projects
+💼 I’m a BCA Graduate from SB College, Changanacherry
 - 🌱 I’m learning: Python Fullstack
-- 💼 I’m a BCA Graduate from SB College, Changanacherry
 - 📍 From: Mallapally, Kerala
 - 📫 Contact: sammathew623538@gmail.com
 
