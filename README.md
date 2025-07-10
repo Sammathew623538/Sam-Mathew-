@@ -13,11 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sammathew623538&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammathew623538&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sammathew623538&theme=tokyonight)
 
 
 
