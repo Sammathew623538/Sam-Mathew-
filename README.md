@@ -2,30 +2,40 @@
 
 
 
-# 👋 Hello, I'm Sam Mathew!
+# 👋 # 👋 Hi, I'm Sam Mathew  
+### 💻 Python Full Stack Developer | Django | React | MySQL  
 
-## 🚀 About Me
-💼 I’m a BCA Graduate from SB College, Changanacherry
-- 🌱 I’m learning: Python Fullstack
-- 📍 From: Mallapally, Kerala
-- 📫 Contact: sammathew623538@gmail.com
+Welcome to my GitHub profile!  
+I'm a passionate web developer and designer.  
+Here you’ll find my projects, experiments, and contributions showcasing my journey in tech.  
 
 ---
 
-## My Projects
-Check out my PetCare project here: [Sam-Mathew-](https://github.com/Sammathew623538/Sam-Mathew-)
+## 🌐 Portfolio  
+[![Portfolio](https://img.shields.io/badge/🌎%20Visit-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
 
+---
 
+## 🧠 Tech Stack  
 
-[![GitHub Stars](https://img.shields.io/github/stars/Sammathew623538/zepto-Frontend?style=for-the-badge)](https://github.com/Sammathew623538/zepto-Frontend/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Sammathew623538/zepto-Frontend?style=for-the-badge)](https://github.com/Sammathew623538/zepto-Frontend/network)
-[![GitHub Issues](https://img.shields.io/github/issues/Sammathew623538/zepto-Frontend?style=for-the-badge)](https://github.com/Sammathew623538/zepto-Frontend/issues)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sammathew623538&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammathew623538&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sammathew623538&theme=radical&hide_border=true" alt="GitHub Streak" width="90%"/>
-</div>
+## 📊 GitHub Stats  
+
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammathew123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammathew123&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
