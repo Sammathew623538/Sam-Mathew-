@@ -4,7 +4,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00,7FFF00,ADFF2F&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Sam+Mathew!;💻+Python+Full+Stack+Developer;⚡+Django+|+React+|+MySQL;🚀+Passionate+About+Web+Development" alt="Typing SVG" />
 </h1>
----
+---<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Sam+Mathew!;💻+Python+Full+Stack+Developer;⚡+Django+|+React+|+MySQL;🚀+Passionate+About+Web+Development" alt="Typing SVG" />
+</h1>
 
 ## 🧠 About Me  
 🎓 **BCA Graduate** from *SB College, Changanacherry*  
